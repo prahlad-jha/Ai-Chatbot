@@ -1,21 +1,21 @@
-AI Chatbot
+## AI Chatbot
 
 This is a simple AI Chatbot built using HTML, CSS, and JavaScript. The chatbot interacts with users in real time, providing a conversational experience.
 
- Features
+## Features
 
 - Interactive chatbot interface
 - Real-time responses
 - Responsive design
 - Easy to customize
 
- Technologies Used
+## Technologies Used
 
 - **HTML**: Structure of the chatbot interface
 - **CSS**: Styling and layout
 - **JavaScript**: Logic for chatbot responses
 
- Demo
+## Demo
 
 You can view the live demo of this project here:
 
